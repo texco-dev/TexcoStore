@@ -1,0 +1,8 @@
+{
+  "package": "appsubasta.com.apk",
+  "name": "appSubasta",
+  "version": "3.1",
+  "versionCode": 3,
+  "apk":"https://github.com/texco-dev/TexcoStore/appsubasta.com.apk",
+  "changelog": "https://github.com/texco-dev/TexcoStore/releases/latest"
+}
